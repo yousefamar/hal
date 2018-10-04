@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/yousefamar/hal#readme",
   "dependencies": {
-    "@chromasdk/chromajs": "^0.1.1"
+    "@chromasdk/chromajs": "^0.1.1",
+    "nan": "^2.11.1"
   }
 }
